@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.19.1
 
 # method one, shell form
 CMD sleep 10000
