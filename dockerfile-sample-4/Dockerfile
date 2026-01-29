@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:3.23.3
 
 # the executable
 ENTRYPOINT ["sleep"]
